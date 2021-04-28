@@ -1,5 +1,3 @@
-# youtube-video-downloader
-YouTube视频下载器
 # 盘点2021年15个最热门YouTube视频下载器
 
 YouTube视频怎么下载？作为国外最受欢迎的视频共享平台，YouTube网站上的视频种类繁多，应有尽有。在浏览网页的时候，大家看到喜欢的视频可能想着保存下来分享给家人或朋友观看，但是该网站不支持下载，因此[怎么下载YouTube视频](https://www.4kvideodownloader.com/tutorial/download-youtube-videos/)一直是大家比较关注的话题，今天我来分享15个免费的工具让你可以轻松将喜欢的油管视频保持到手机或电脑上离线观看。
