@@ -105,7 +105,7 @@ iTubeGo是一个广泛的内容抓取工具，可以让你下载音乐和视频�
 
 Freemake video downlaoder专为苹果和Windows系统打造，可让您将视频转换并下载成不同的格式。除了YouTube，该软件还支持多达60个其他平台。
 
-### 下载YouTube视频须知
+## 下载YouTube视频须知
 
 1. 下载前需获得创作者授权许可
 2. YouTube视频下载后不可商用
